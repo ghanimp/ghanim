@@ -10,6 +10,8 @@ Nama : Ghani Mandala Putra, Nim 2409116042, Proyek 1
 2.disini menggunakan while true agar bisa melakukan login ulang 
 
 3.kemudian ada input untuk memasukkan nama dan nim
+![Screenshot 2024-10-01 102141](https://github.com/user-attachments/assets/9c4be7a0-d7c2-4633-b61b-d9bd7d30b370)
+
 
 
 
