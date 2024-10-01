@@ -51,6 +51,7 @@ Nama : Ghani Mandala Putra, Nim 2409116042, Proyek 1
 16.saya juga menambahkan opsi untuk mengulang atau mengakhiri program
 
 BERIKUT HASILNYA
+
 #Ghani Mandala Putra
 #2409116042
 #SI 24 B
