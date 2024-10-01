@@ -50,6 +50,7 @@ Nama : Ghani Mandala Putra, Nim 2409116042, Proyek 1
 
 16.saya juga menambahkan opsi untuk mengulang atau mengakhiri program
 
+BERIKUT HASILNYA
 #Ghani Mandala Putra
 #2409116042
 #SI 24 B
@@ -104,5 +105,6 @@ while True:
 
 ![Screenshot 2024-10-01 094449](https://github.com/user-attachments/assets/ca99e296-a85e-408e-b25c-946d7b04e2e8)
 
+Ini adalah percobaan yang saya lakukan saat menjalankan programnya
 
 
