@@ -50,7 +50,7 @@ Nama : Ghani Mandala Putra, Nim 2409116042, Proyek 1
 
 16.saya juga menambahkan opsi untuk mengulang atau mengakhiri program
 
-
+C:\Users\User\Desktop\belajar coding\phyton\mini project 1.py
 
 
 ![Screenshot 2024-10-01 094449](https://github.com/user-attachments/assets/ca99e296-a85e-408e-b25c-946d7b04e2e8)
