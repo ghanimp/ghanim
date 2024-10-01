@@ -52,9 +52,6 @@ Nama : Ghani Mandala Putra, Nim 2409116042, Proyek 1
 
 BERIKUT HASILNYA
 
-#Ghani Mandala Putra
-#2409116042
-#SI 24 B
 
 #login sederhana
 while True:
