@@ -50,7 +50,56 @@ Nama : Ghani Mandala Putra, Nim 2409116042, Proyek 1
 
 16.saya juga menambahkan opsi untuk mengulang atau mengakhiri program
 
-C:\Users\User\Desktop\belajar coding\phyton\mini project 1.py
+#Ghani Mandala Putra
+#2409116042
+#SI 24 B
+
+#login sederhana
+while True:
+    print("__________Login___________")
+    print("Masukkan Nama dan NIM anda")
+    nama = str(input("Masukkan Nama anda: "))
+    nim = str(input("Masukkan NIM anda: "))
+    if nama == "Ghani" and nim == "2409116042":
+        print("Selamat datang,",nama,"Dengan NIM",nim)
+        ulang = input("Apakah Anda ingin mencoba login lagi? (y/n): ")
+        if ulang != 'y': break 
+    else:
+        print("Nama atau NIM anda tidak dikenal")
+        ulang = input("Apakah Anda ingin mencoba login lagi? (y/n): ")
+        if ulang != 'y':
+            print("Login Gagal")
+            exit()
+
+#mennghitung total harga
+while True:
+    #mengisi jumlah dan harga barang
+    harga_barang = int(input("Masukkan harga barang: Rp. "))
+    jumlah_barang = int(input("Masukkan jumlah barang: "))
+    total_harga = harga_barang * jumlah_barang
+
+    #proses menentukan akan mendapatkan diskon atau tidak
+    if total_harga > 250000:
+        harga_akhir = total_harga - (0.25 * total_harga)
+        print("Selamat, Anda Mendapatkan Diskon 25%")
+        print("Total harga adalah: Rp. ",harga_akhir)
+        ulang = input("Apakah anda ingin menghitung barang lagi? (y/n): ")
+        if ulang == 'y':  #pengulangan jika ingin mengulang
+            lanjut = 'y'
+        
+        else:
+            print("Program Selesai")
+            exit()
+
+    else:
+        print("Total harga adalah: Rp. ",total_harga)
+        ulang = input("Apakah anda ingin menghitung barang lagi? (y/n): ")
+        if ulang == 'y':
+            lanjut = 'y'
+        
+        else:
+            print("Program Selesai")
+            exit()
 
 
 ![Screenshot 2024-10-01 094449](https://github.com/user-attachments/assets/ca99e296-a85e-408e-b25c-946d7b04e2e8)
